@@ -68,14 +68,17 @@ Restart the Arduino IDE.
 
 <img src="images/Arduino-upload-button.png" width="500">
 
+You can use the serial monitor to check if the connection to the WiFi was successful and to see the output of the SVM40 module.
+
+
 ## Homekit Integration
 
 1. Open the Home App on your iPhone or iPad.
-2. Use the "+"-sign to add a new device.
+2. Tap the "+"-sign on the top right corner and select «Add new device».
 3. Choose "I do not have a code"
-4. Select the SVM40-module
-5. Insert `111-11-111` as the device code
-6. Follow the final instructions on the screen to name your sensors.
+4. Your SVM40 module should now show up. Select it to configure it.
+5. Insert `111-11-111` as the device code.
+6. Follow the final instructions on the screen to name your sensors and place it in a room in your home.
 
 
 
