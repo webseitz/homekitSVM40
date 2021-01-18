@@ -4,7 +4,7 @@
 
 This tutorial enables you to setup a VOC-Monitor sending Temperature, Humidity and Volatile Organic Compound (VOC) measurements via WiFi to Apple Homekit. This allows you to ask Siri about your air quality and, for example, switch on a smart light bulb if the air quality is poor.  All steps necessary and links are provided here.
 
-<img src="images/Homekit-SVM40.jpg" width="500">
+<img src="images/Homekit-SVM40.jpg" width="1000">
 
 The tutorial is structured in 3 parts
 
@@ -70,10 +70,10 @@ Restart the Arduino IDE.
 
 1. Open the Home App on your iPhone or iPad.
 2. Use the "+"-sign to add a new device.
-3. Chose "I do not have a code"
+3. Choose "I do not have a code"
 4. Select the SVM40-module
-5. Insert 111-11-111 as the device code
-6. Follow the final steps.
+5. Insert `111-11-111` as the device code
+6. Follow the final instructions on the screen to name your sensors.
 
 
 
