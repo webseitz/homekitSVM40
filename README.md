@@ -4,6 +4,8 @@
 
 This tutorial enables you to setup a VOC-Monitor sending Temperature, Humidity and Volatile Organic Compound (VOC) measurements via WiFi to Apple Homekit. This allows you to ask Siri about your air quality and, for example, switch on a smart light bulb if the air quality is poor.  All steps necessary and links are provided here.
 
+<img src="images/Homekit-SVM40.jpg" width="500">
+
 The tutorial is structured in 3 parts
 
 * **Hardware Setup**: Learn how to wire the sensor to the development board
