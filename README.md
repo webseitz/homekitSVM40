@@ -4,6 +4,8 @@
 
 This tutorial enables you to setup a VOC-Monitor sending Temperature, Humidity and Volatile Organic Compound (VOC) measurements via WiFi to Apple Homekit. This allows you to ask Siri about your air quality and, for example, switch on a smart light bulb if the air quality is poor.  All steps necessary and links are provided here.
 
+<img src="images/Homekit-SVM40.jpg" width="500">
+
 The tutorial is structured in 3 parts
 
 * **Hardware Setup**: Learn how to wire the sensor to the development board
@@ -19,13 +21,11 @@ To complete this tutorial, you'll need
 
 Connect the SEK-SVM40 module to the ESP8266 as depicted below:
 
-* **VDD** of the SEK-SVM40 to the **3.3V** of the ESP8266
-* **GND** of the SEK-SVM40 to the **GND** of the ESP8266
-* **SCL** of the SEK-SVM40 to the **GPIO 5 (D1)** of the ESP8266
-* **SDA** of the SEK-SVM40 to the **GPIO 4 (D2)** of the ESP8266
-* **SEL** of the SEK-SVM40 to the **GND** of the ESP8266  (choosing the I2C interface)
-
-<img src="images/SVM40_hardware_setup.png" width="500">
+* **VDD** (red) of the SEK-SVM40 to the **3.3V** of the ESP8266
+* **GND** (black) of the SEK-SVM40 to the **GND** of the ESP8266
+* **SCL** (yellow) of the SEK-SVM40 to the **GPIO 5 (D1)** of the ESP8266
+* **SDA** (green) of the SEK-SVM40 to the **GPIO 4 (D2)** of the ESP8266
+* **SEL** (blue) of the SEK-SVM40 to the **GND** of the ESP8266  (choosing the I2C interface)
 
 
 ## Software Setup
