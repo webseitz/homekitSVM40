@@ -27,6 +27,8 @@ Connect the SEK-SVM40 module to the ESP8266 as depicted below:
 * **SDA** (green) of the SEK-SVM40 to the **GPIO 4 (D2)** of the ESP8266
 * **SEL** (blue) of the SEK-SVM40 to the **GND** of the ESP8266  (choosing the I2C interface)
 
+You may use [this site](https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/) to find the pins on your ESP8266 device.
+
 
 ## Software Setup
 
