@@ -16,7 +16,7 @@ The tutorial is structured in 3 parts
 
 To complete this tutorial, you'll need
 * ESP8266 DevKit (ESP32 is possible to, but not shown here)
-* [Sensirions SEK-SVM40](https://www.sensirion.com/en/environmental-sensors/evaluation-kit-sek-svm40/) (available [here](https://www.digikey.com/en/products/detail/sensirion-ag/SEK-SVM40/12820417?s=N4IgTCBcDaIMoDUCyAWADCAugXyA)
+* [Sensirions SEK-SVM40](https://www.sensirion.com/en/environmental-sensors/evaluation-kit-sek-svm40/) (available [here](https://www.digikey.com/en/products/detail/sensirion-ag/SEK-SVM40/12820417?s=N4IgTCBcDaIMoDUCyAWADCAugXyA))
 * USB cable to connect the ESP8266 module to your computer
 
 Connect the SEK-SVM40 module to the ESP8266 as depicted below:
